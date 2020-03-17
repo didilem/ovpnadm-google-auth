@@ -3,7 +3,7 @@ OVPN Admin Console with Google Authentificator
 
 # OpenVPN Administration Console
 
-© 2015 / Lembke Computer Consulting GmbH /  http://www.lcc.ch
+© 2020 / Lembke Computer Consulting GmbH /  http://www.lcc.ch
 
 This file is part of OpenVPN Admin.
 
