@@ -1,0 +1,368 @@
+
+body { 
+   font: 1.0em Verdana,Helvetica,Arial;
+   background-color:#FFF;
+   color: #444; 
+}
+
+p {
+      font: 1.0em Verdana,Helvetica,Arial; 
+}
+
+a {
+   color: #000;
+}
+
+a:hover, div.active a {
+   color: #BF812E;
+}
+
+
+div#container {
+   display: block;
+   position: relative;
+   clear: left;
+   margin: 0 auto;
+   padding-top: 50px;
+   width: 800px;
+}
+
+div#logo {
+   background: #FFF;
+   position: relative;
+   top: 0; left: 0;
+   height: 75px;
+   width: 800px;
+	padding-right: 10px;
+	background-image: url(../images/ovpnadm.png);
+	background-repeat: no-repeat;
+}
+
+div#menuContent {
+   background: #EEE;
+   margin-top: 5px;
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   -webkit-box-shadow: 3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+   -moz-box-shadow:    3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+   box-shadow:         3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+   border: 1px solid #AAA;
+}
+
+div#menu_container {
+   display: block;
+   padding: 0;
+   padding-top: 5px;
+   padding-left: 5px;
+   /* position: relative; */
+   left: 0;
+   top: 0;
+   border-bottom: 2px solid rgba(50, 50, 50, 0.75);
+   /* background: #FFF; */
+   
+}
+div#ovpnlogo {
+   float: right;
+   padding-right: 5px;
+}
+
+div#menuMain {
+   float: left;
+   padding-top: 35px;
+}
+
+ul.menu {
+   padding: 0;
+   -webkit-margin-before: 0px;
+   -webkit-margin-after: 0em;
+   -webkit-margin-start: 0px;
+   -webkit-margin-end: 0px;
+   -webkit-padding-start: 0px;
+}
+
+ul.menu li {
+   list-style: none;
+   position: relative;
+   float: left;
+   margin-right: 10px;
+   color: rgb(230, 230, 230);
+   font-size: 12px;
+   padding: 5px;
+   background: rgb(163, 163, 163);
+   background: -moz-linear-gradient(90deg, rgb(163, 163, 163) 7%, rgb(61, 61, 61) 100%);
+   background: -webkit-linear-gradient(90deg, rgb(163, 163, 163) 7%, rgb(61, 61, 61) 100%);
+   background: -o-linear-gradient(90deg, rgb(163, 163, 163) 7%, rgb(61, 61, 61) 100%);
+   background: -ms-linear-gradient(90deg, rgb(163, 163, 163) 7%, rgb(61, 61, 61) 100%);
+   background: linear-gradient(0deg, rgb(163, 163, 163) 7%, rgb(61, 61, 61) 100%);
+   -webkit-box-shadow: 0px 0px 1px rgba(50, 50, 50, 0.75);
+   -moz-box-shadow:    0px 0px 1px rgba(50, 50, 50, 0.75);
+   box-shadow:         0px 0px 1px rgba(50, 50, 50, 0.75);
+
+   -moz-border-radius-topleft: 5px;
+   -webkit-border-top-left-radius: 5px;
+   border-top-left-radius: 5px;
+   -moz-border-radius-topright: 5px;
+   -webkit-border-top-right-radius: 5px;
+   border-top-right-radius: 5px;
+
+   
+}
+
+ul.menu li.active, ul.menu li:hover {
+   background: rgb(23, 31, 109);
+   background: -moz-linear-gradient(90deg, rgb(23, 31, 109) 30%, rgb(51, 12, 206) 100%);
+   background: -webkit-linear-gradient(90deg, rgb(23, 31, 109) 30%, rgb(51, 12, 206) 100%);
+   background: -o-linear-gradient(90deg, rgb(23, 31, 109) 30%, rgb(51, 12, 206) 100%);
+   background: -ms-linear-gradient(90deg, rgb(23, 31, 109) 30%, rgb(51, 12, 206) 100%);
+   background: linear-gradient(0deg, rgb(23, 31, 109) 30%, rgb(51, 12, 206) 100%);
+   -webkit-box-shadow: 0px 0px 1px rgba(50, 50, 50, 0.75);
+   -moz-box-shadow:    0px 0px 1px rgba(50, 50, 50, 0.75);
+   box-shadow:         0px 0px 1px rgba(50, 50, 50, 0.75);
+}
+
+ul.menu li a {
+   text-decoration: none;
+   color: #FFF;
+}
+
+ul.menu li:hover a, ul.menu li.active a {
+   color: #FFF;
+   
+}
+
+ul.submenu {
+   display: block;
+   padding: 5px;
+   float: left;
+   /* list-style-type: disc; */
+   -webkit-margin-before: 0em;
+   -webkit-margin-after: 0em;
+   -webkit-margin-start: 0px;
+   -webkit-margin-end: 0px;
+   -webkit-padding-start: 0px;
+   -webkit-border-radius: 3px;
+   -moz-border-radius: 3px;
+   border-radius: 3px;
+   -webkit-box-shadow: 3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+   -moz-box-shadow:    3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+   box-shadow:         3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+   width: 120px;
+   border: 1px solid #AAA;
+   background: #FFF;
+}
+
+ul.submenu li {
+   padding-left: 5px;
+   display: block;
+   font-size: 0.7em;
+   font-weight: 800;
+   list-style: none;
+   position: relative;
+   overflow: hidden;
+}
+
+ul.submenu li a {
+   
+   text-decoration: none;
+   color: #000;
+}
+
+ul.submenu li:hover a, ul.submenu li.active a {
+   color: #f58220;
+}
+
+div#mainContent {
+   padding: 5px;
+   padding-top: 10px;  
+}
+
+div#dataContainerWrapper {
+   float: left;
+   margin-left: 20px;
+}
+
+div#dataContainer {
+   clear: left;
+   padding: 10px;
+   display: block;
+   width: 600px;
+   border-radius: 3px;
+   -webkit-box-shadow: 3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+   -moz-box-shadow:    3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+   box-shadow:         3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+   border: 1px solid #AAA;
+   margin-bottom: 20px;
+   background: #FFF;
+}
+
+div.title {
+   font-size: 1em;
+   font-weight: 800;
+}
+
+div.label {
+   clear: left;
+   float: left;
+   width: 150px;
+}
+
+div.input {
+   float: left;
+}
+
+div.beforeSelect {
+   clear: left;
+   margin-bottom: 15px;
+}
+
+div.certDetails {
+   clear: left;
+   padding-top: 15px;
+}
+
+div.selection {
+   float: left;
+}
+
+div.selection div.label {
+   width: 160px;
+}
+
+div.selection div.addRemove {
+   margin: 30px;
+}
+
+div.addRemove div.button {
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+div.select {
+   clear: left;
+}
+
+div.select select {
+   width: 150px;
+}
+
+div.button {
+   -webkit-margin-before: .5em;
+   -webkit-margin-after: .5em;
+   -webkit-margin-start: 0px;
+   -webkit-margin-end: 0px;
+   color: rgb(230, 230, 230);
+   text-align: center;
+   font-size: 1em;
+   padding: 2px;
+   padding-left: 5px;
+   padding-right: 5px;
+   text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   background: rgb(23, 31, 109);
+   background: -moz-linear-gradient(90deg, rgb(23, 31, 109) 30%, rgb(51, 12, 206) 100%);
+   background: -webkit-linear-gradient(90deg, rgb(23, 31, 109) 30%, rgb(51, 12, 206) 100%);
+   background: -o-linear-gradient(90deg, rgb(23, 31, 109) 30%, rgb(51, 12, 206) 100%);
+   background: -ms-linear-gradient(90deg, rgb(23, 31, 109) 30%, rgb(51, 12, 206) 100%);
+   background: linear-gradient(0deg, rgb(23, 31, 109) 30%, rgb(51, 12, 206) 100%);
+   -webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+   -moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+   box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
+}
+
+div.button:hover {
+   background: rgb(51, 12, 206);
+   background: -moz-linear-gradient(90deg, rgb(51, 12, 206) 30%, rgb(23, 31, 109) 100%);
+   background: -webkit-linear-gradient(90deg, rgb(51, 12, 206) 30%, rgb(23, 31, 109) 100%);
+   background: -o-linear-gradient(90deg, rgb(51, 12, 206) 30%, rgb(23, 31, 109) 100%);
+   background: -ms-linear-gradient(90deg, rgb(51, 12, 206) 30%, rgb(23, 31, 109) 100%);
+   background: linear-gradient(0deg, rgb(51, 12, 206) 30%, rgb(23, 31, 109) 100%);
+}
+
+div.listEdit {
+   float: left;
+   -webkit-margin-before: 0em;
+   -webkit-margin-after: 0em;
+   -webkit-margin-start: 0px;
+   -webkit-margin-end: 0px;
+   margin-left: 5px;
+}
+
+div.errorMsg {
+   color: #ED3434;
+}
+
+div.errorContainer {
+   padding-top: 5px;
+   padding-bottom: 5px;
+   font-size: 0.7em;
+   line-height: 1.5em;
+}
+
+div.errorContainerLists {
+   padding-top: 5px;
+   padding-bottom: 5px;
+   font-size: 1em;
+   line-height: 1.5em;
+}
+
+div.list {
+   padding: 3px;
+   padding-left: 5px;
+   -webkit-border-radius: 3px;
+   -moz-border-radius: 3px;
+   border-radius: 3px;
+   font-size: 0.75em;
+   clear: left;
+}
+
+div.alter_0 {
+   background-color:#fff;
+}
+
+div.alter_1 {
+   background-color:#ccc;
+}
+
+div.list div.name {
+   float: left;
+   font-weight: 800;
+   width: 120px;
+}
+
+div.cname {
+   float: left;
+   font-weight: 800;
+   width: 200px;
+}
+
+div.cnameInactive a {
+   color: red;
+   float: left;
+   font-weight: 800;
+   width: 200px;
+}
+
+div.exportClient {
+   padding: 20px;
+   width: 600px;
+   display: none;
+}
+
+div.list div.network {
+   float: left;
+}
+
+div.editNetwork {
+   display: none;
+}
+
+div.confirmDelete {
+   clear: left;
+   margin: 5px;
+}
+
+.readonly {background-color:#ccc}
+.readwrite {background-color:#fff}

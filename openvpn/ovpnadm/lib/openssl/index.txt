@@ -1,0 +1,56 @@
+R	380419103559Z	180424104102Z	1007	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Dietmar Lembke/emailAddress=lembke@lcc.ch
+R	380419104409Z	180424104430Z	1008	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Dietmar Lembke/emailAddress=lembke@lcc.ch
+R	380419105305Z	180426172523Z	1009	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Dietmar Lembke/emailAddress=lembke@lcc.ch
+R	380419150227Z	180427103403Z	100A	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=VPN Server Cert/emailAddress=ovpnadm@acc-solutions.ch
+R	380419154149Z	180427082047Z	100B	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Adrian Meier/emailAddress=adrian.meier@acc-solutions.ch
+R	380421172550Z	180427103330Z	100C	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Dietmar Lembke/emailAddress=lembke@lcc.ch
+R	380421182732Z	180426182922Z	100D	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Jessica Beerens/emailAddress=jess@lcc.ch
+R	380421183700Z	180427103347Z	100E	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=LXD 01/emailAddress=root@lxd01.acc-solutions.ch
+R	380421183920Z	180427103354Z	100F	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=LXD 02/emailAddress=root@lxd02.acc-solutions.ch
+R	380422082142Z	180427083158Z	1010	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Adrian Meyer/emailAddress=adrian.meyer@acc-solutions.ch
+R	380422082157Z	180427103340Z	1011	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Adrian Meyer/emailAddress=adrian.meyer@acc-solutions.ch
+V	380422103536Z		1012	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=vpn.acc-solutions.ch/emailAddress=ovnadm@acc-solutions.ch
+R	380422103628Z	180427105031Z	1013	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Dietmar Lembke/emailAddress=lembke@lcc.ch
+R	380422105146Z	180817141503Z	1014	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Dietmar Lembke/emailAddress=lembke@lcc.ch
+V	380422152900Z		1015	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=lxd2.acc-solutions.ch/emailAddress=ovpn@lxd2.acc-solutions.ch
+R	380422173235Z	190205122357Z	1016	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=lxd1.acc-solutions.ch/emailAddress=ovpn@lxd1.acc-solutions.ch
+R	380812123151Z	180817123329Z	1017	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Robin Bieri/emailAddress=robin.bieri@acc-solutions.ch
+R	380812123232Z	180817123335Z	1018	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Robin Bieri/emailAddress=robin.bieri@acc-solutions.ch
+R	380812134646Z	181002141600Z	1019	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Robin Bieri/emailAddress=robin.bieri@acc-solutions.ch
+R	380812141525Z	180905071153Z	101A	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Dietmar Lembke/emailAddress=lembke@lcc.ch
+R	380831071224Z	190220110532Z	101B	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Dietmar Lembke/emailAddress=lembke@lcc.ch
+R	380927141652Z	190315091251Z	101C	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Robn Bieri/emailAddress=robin.bieri@acc-solutions.ch
+V	390131122417Z		101D	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=lxd1.acc-solutions.ch/emailAddress=ovpn@lxd1.acc-solutions.ch
+V	390131130711Z		101E	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=lxd4.acc-solutions.ch/emailAddress=ovpn@lxd4.acc-solutions.ch
+V	390210112624Z		101F	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=lxd5.acc-solutions.ch/emailAddress=ovpn@lxd5.acc-solutions.ch
+V	390214164308Z		1020	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=LXDS/CN=Adrian Meyer/emailAddress=adrian.meyer@acc-solutions.ch
+V	390215110604Z		1021	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Dietmar Lembke/emailAddress=lembke@lcc.ch
+V	390308125219Z		1022	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Milos Macedoljan/emailAddress=milos.macedoljan@acc-solutions.ch
+V	390310085657Z		1023	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Dusan Rakic/emailAddress=dusan.rakic@acc-solutions.ch
+V	390310090056Z		1024	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Nenad Ackovic/emailAddress=nenad.ackovic@acc-solutions.ch
+V	390310090419Z		1025	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Richard Hatuev/emailAddress=richard.hatuev@acc-solutions.ch
+V	390310090912Z		1026	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Armin Leu/emailAddress=armin.leu@acc-solutions.ch
+V	390310091320Z		1027	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Robin Bieri/emailAddress=robin.bieri@acc-solutions.ch
+R	390410075039Z	190415075103Z	1028	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=test.test/emailAddress=root@test.test
+V	390418141958Z		1029	unknown	/C=CH/ST=Bern/L=Bolligen/O=Swisscom AG/OU=OVPN/CN=mariolanz/emailAddress=mario.lanz@swisscom.com
+V	390418142124Z		102A	unknown	/C=CH/ST=Bern/L=Bolligen/O=Swisscom AG/OU=OVPN/CN=mariolanz_swisscom/emailAddress=mario.lanz@swisscom.com
+V	390418142125Z		102B	unknown	/C=CH/ST=Bern/L=Bolligen/O=Swisscom AG/OU=OVPN/CN=mariolanz_swisscom/emailAddress=mario.lanz@swisscom.com
+V	390418142130Z		102C	unknown	/C=CH/ST=Bern/L=Bolligen/O=Swisscom AG/OU=OVPN/CN=mariolanz_swisscom/emailAddress=mario.lanz@swisscom.com
+V	390418142143Z		102D	unknown	/C=CH/ST=Bern/L=Bolligen/O=Swisscom AG/OU=OVPN/CN=mariolanz_swisscom/emailAddress=mario.lanz@swisscom.com
+V	390418142159Z		102E	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=mariolanz_swisscom/emailAddress=mario.lanz@swisscom.com
+V	390418142236Z		102F	unknown	/C=CH/ST=Bern/L=Bolligen/O=Swisscom AG/OU=OVPN/CN=Mario Lanz/emailAddress=mario.lanz@swisscom.com
+V	390418142237Z		1030	unknown	/C=CH/ST=Bern/L=Bolligen/O=Swisscom AG/OU=OVPN/CN=Mario Lanz/emailAddress=mario.lanz@swisscom.com
+V	390418142322Z		1031	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Mario Lanz/emailAddress=roger.mueller@swisscom.com
+V	390418142338Z		1032	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=Mario Lanz Swisscom/emailAddress=mario.lanz@swisscom.com
+V	390418142408Z		1033	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=test/emailAddress=robin.bieri@acc-solutions.ch
+V	390418181500Z		1034	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=test.test/emailAddress=roo@test.tst
+V	390418183058Z		1035	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=test.test/emailAddress=roo@test.tst
+V	390418183106Z		1036	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=test.test/emailAddress=roo@test.tst
+V	390418183325Z		1037	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=test.test/emailAddress=roo@test.tst
+V	390418183332Z		1038	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=test.test/emailAddress=roo@test.tst
+V	390418183334Z		1039	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=test.test/emailAddress=roo@test.tst
+V	390418183348Z		103A	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=test.tst/emailAddress=root@test.tst
+R	390418183728Z	190423183748Z	103B	unknown	/C=CH/ST=Bern/L=Bolligen/O=acc solutions AG/OU=OVPN/CN=test.tst/emailAddress=root@test.tst
+V	390419062610Z		103C	unknown	/C=CH/ST=Bern/L=Bolligen/O=Swisscom AG/OU=OVPN/CN=Mario Lanz/emailAddress=mario.lanz@swisscom.com
+V	400306081449Z		103D	unknown	/C=CH/ST=Bern/L=Bern/O=Synergy BTC AG /OU=OVPN/CN=build.synergy.ch/emailAddress=root@synergy.ch
+V	400306113831Z		103E	unknown	/C=CH/ST=Bern/L=Bern/O=Synergy BTC AG/OU=OVPN/CN=Vito Semeraro/emailAddress=vito.semeraro@synergy.ch
